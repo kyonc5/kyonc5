@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 ### Latest Posts
 <!-- feed start -->
+- Sep 06 - [Windows 10が一瞬フリーズする問題の解消](https://qiita.com/kyonc5/items/049d55871acacb667414)
+- Sep 05 - [PlantUML クラス図 早見表](https://qiita.com/kyonc5/items/4d536cb59fd7c41debc1)
 <!-- feed end -->
