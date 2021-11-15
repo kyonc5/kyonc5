@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 [![My Qiita followers](http://qiita-badge.apiapi.app/s/kyonc5/posts.svg)](http://qiita.com/kyonc5) [![My Qiita contributions](http://qiita-badge.apiapi.app/s/kyonc5/contributions.svg)](http://qiita.com/kyonc5) [![My Qiita followers](http://qiita-badge.apiapi.app/s/kyonc5/followers.svg)](http://qiita.com/kyonc5)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kyonc5&show_icons=true&count_private=true&theme=vue-dark" />
+  <img align="left" src="https://github-readme-stats-kyonc5.vercel.app/api?username=kyonc5&show_icons=true&count_private=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyonc5&count_private=true&theme=vue-dark&layout=compact" />
+  <img align="left" src="https://github-readme-stats-kyonc5.vercel.app/api/top-langs/?username=kyonc5&theme=vue-dark&layout=compact" />
 </a>
 
 ### Latest Posts
