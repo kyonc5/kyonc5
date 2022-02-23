@@ -9,3 +9,6 @@
 <a href="https://git.io/streak-stats">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=kyonc5&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j" />
 </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=kyonc5&theme=dark_lover&column=8&no-bg=true&no-frame=true" />
+</a>
