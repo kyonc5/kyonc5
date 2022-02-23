@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: kyonc5/my-github-profile-summary-cards@release
+      - uses: kyonc5/my-github-profile-summary-cards@master
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
